@@ -1,3 +1,3 @@
 # code-umie
 
-run `python main.py`
+run `python run.py`
